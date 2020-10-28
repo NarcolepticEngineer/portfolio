@@ -2,6 +2,9 @@
 #### I swear I'll figure out how to use this eventually.
 I think it's starting to work!
 Using VS Code to make changes, Live Server to review changes, then save/commit/push from GitHub Desktop!
+
+https://narcolepticengineer.github.io/portfolio/
+===========
 _________
 
 You can use the [editor on GitHub](https://github.com/NarcolepticEngineer/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
