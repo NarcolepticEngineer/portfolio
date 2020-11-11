@@ -1,0 +1,4 @@
+<svg id="icon_-_windows" data-name="icon - windows" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="primary" d="M.381,0H19.619A.381.381,0,0,1,20,.381V11.619a.381.381,0,0,1-.381.381H.381A.381.381,0,0,1,0,11.619V.381A.381.381,0,0,1,.381,0Z" transform="translate(0 8)" fill="#fcfeff"/>
+  <path id="secondary" d="M0,5.99a2,2,0,0,1,2-2H13.977a2,2,0,0,1,2,2ZM2,2a2,2,0,0,1,2-2H11.98a2,2,0,0,1,2,2Z" transform="translate(1.997)" fill="#e8e8e8"/>
+</svg>

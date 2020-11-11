@@ -1,0 +1,13 @@
+<svg id="icon_-_trends" data-name="icon - trends" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_2" data-name="Group 2" transform="translate(0)">
+    <g id="Oval_8" data-name="Oval 8">
+      <circle id="Oval_8-2" data-name="Oval 8" cx="10" cy="10" r="10" fill="none"/>
+      <g id="Oval_8-3" data-name="Oval 8" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <path id="primary" d="M1.381,12.664c-.316.568-.828.568-1.144,0a2.35,2.35,0,0,1,0-2.057L5.091,1.88c.316-.568.828-.568,1.144,0L8.9,6.67,12.371.426c.316-.568.828-.568,1.144,0a2.35,2.35,0,0,1,0,2.057L9.471,9.755c-.316.568-.828.568-1.144,0L5.663,4.966Z" transform="translate(3.119 3.261)" fill="#cbd2d9"/>
+  <path id="primary-2" data-name="primary" d="M1.18,10.574a.514.514,0,0,1-.978,0,1.922,1.922,0,0,1,0-1.717L4.35,1.57a.514.514,0,0,1,.978,0l2.276,4L10.572.356a.514.514,0,0,1,.978,0,1.922,1.922,0,0,1,0,1.717L8.093,8.145a.514.514,0,0,1-.978,0l-2.276-4Z" transform="translate(4.118 5.74)" fill="#f5f7fa"/>
+</svg>
