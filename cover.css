@@ -24,12 +24,14 @@ a:hover {
  * Base structure
  */
 
+html,
+body {
+  height: 100%;
+}
 
 
 .cover-container {
-  max-width: 60em;
-  margin: 0 auto;
-  width: 80%;
+  max-width: 70em;
 }
 
 
