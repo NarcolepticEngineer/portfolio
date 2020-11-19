@@ -3,7 +3,7 @@
 I think it's starting to work!
 Using VS Code to make changes, Live Server to review changes, then save/commit/push from GitHub Desktop.
 
-https://narcolepticengineer.github.io/portfolio/
+https://narcolepticengineer.github.io/portfolio/index.html
 ===========
 _________
 
