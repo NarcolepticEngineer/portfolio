@@ -3077,7 +3077,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: #353849f2;
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3801,7 +3801,7 @@ input, select, textarea {
 			.wrapper.spotlight .image {
 				border-radius: 100%;
 				margin: 0 3em 2em 0;
-				width: 70em;
+				width: 22em;
 				overflow: hidden;
 				-ms-flex: 1;
 			}
