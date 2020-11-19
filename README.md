@@ -3,7 +3,7 @@
 
 
 
-https://narcolepticengineer.github.io/portfolio/index.html
+https://narcolepticengineer.github.io/portfolio
 ===========
 _________
 
