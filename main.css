@@ -86,9 +86,20 @@ input, select, textarea {
 
 		html, body {
 			min-width: 320px;
+			height: 100%;
+			}
+
+			body {
+			display: -ms-flexbox;
+			display: flex;
+			}
+
+			.cover-container {
+			max-width: 70em;
+			}
 		}
 
-	}
+	
 
 	html {
 		box-sizing: border-box;
