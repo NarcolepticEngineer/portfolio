@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1490px" height="790px" viewBox="0 0 1490 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <path d="M1.13686838e-13,336.72997 C385.043014,204.29343 695.498651,222.532895 965.249325,99.5328947 C1145.08311,17.5328947 1303.33333,-13.8004386 1440,5.53289474 L1440,431.532895 L1.13686838e-13,431.532895 C0.318995355,431.532895 0.318995355,399.93192 1.13686838e-13,336.72997 Z" id="path-1"></path>
+        <filter x="-2.6%" y="-8.7%" width="105.2%" height="117.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(25.000000, -349.000000)">
+            <g id="InterestingBackdrop" transform="translate(-420.521507, 374.467105)">
+                <g id="Group" transform="translate(420.000000, 0.000000)">
+                    <g id="Group-2" transform="translate(0.521507, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#0A6000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <rect id="Rectangle" fill="#0A6000" x="0" y="397.532895" width="1440" height="366"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
