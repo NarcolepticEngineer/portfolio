@@ -3824,7 +3824,7 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight .content {
-				width: 100%;
+				width: 95%;
 			}
 
 			.wrapper.spotlight:nth-child(2n - 1) .inner {

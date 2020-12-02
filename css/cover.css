@@ -15,8 +15,8 @@ a:hover {
 .btn-secondary:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: .05rem solid #fff;
+  background-color: rgba(255, 255, 255, 0.253);
+  /* border: .05rem solid #fff; */
 }
 
 
