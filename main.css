@@ -3781,7 +3781,7 @@ input, select, textarea {
 			}
 
 		.wrapper.spotlight {  /* changed to remove trapezoid color */
-			/* background-color: #ffffff00; */
+			background-color: #ffffff00;
 		}
 
 			/* .wrapper.spotlight:before, .wrapper.spotlight:after {
