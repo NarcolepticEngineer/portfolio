@@ -115,7 +115,7 @@ input, select, textarea {
 		background-size: cover;
 		background-attachment: scroll;
 		background-position: top, center;
-		background-image: url(images/green/full.svg);
+		background-image: url(../images/green/full.svg);
 		position: relative;
 		background-repeat: no-repeat, no-repeat;
 		overflow-x: hidden;

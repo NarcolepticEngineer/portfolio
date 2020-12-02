@@ -120,7 +120,7 @@ body {
 }
 
 .sk-asset.fieldHill {
-	background-image: url("/images/green/fieldHill.svg");
+	background-image: url("../images/green/fieldHill.svg");
 	left: 0px;
 	top: 346px;
 	width: 1447px;
@@ -132,7 +132,7 @@ only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
 	.sk-asset.sk-fieldHill {
-		background-image: url("/images/green/fieldHill.svg");
+		background-image: url("../images/green/fieldHill.svg");
 		background-size: 1447px 793px;
 	}
 }
@@ -141,7 +141,7 @@ only screen and (-o-min-device-pixel-ratio: 3/1),
 only screen and (-webkit-min-device-pixel-ratio: 3),
 only screen and (min-device-pixel-ratio: 3) {
 	.sk-asset.sk-fieldHill {
-		background-image: url("/images/green/fieldHill.svg");
+		background-image: url("../images/green/fieldHill.svg");
 		background-size: 1447px 793px;
 	}
 }
@@ -162,7 +162,7 @@ only screen and (min-device-pixel-ratio: 3) {
   height: 100px;
   margin-top: 100px;
   left: 50%;
-  background-image: url(images/green/full.svg);
+  background-image: url(../images/green/full.svg);
   background-position: top, right;
   background-size: contain;
   background-repeat: no-repeat, no-repeat;
@@ -187,7 +187,7 @@ only screen and (min-device-pixel-ratio: 3) {
 }
 
 .hillAndTree {
-  background-image: url(images/green/full.svg);
+  background-image: url(../images/green/full.svg);
   background-position: top, left;
   background-size: cover;
   position: relative;
