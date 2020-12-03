@@ -1,0 +1,206 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+  background-color: rgba(255, 255, 255, 0.253);
+  /* border: .05rem solid #fff; */
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.cover-container {
+  max-width: 70em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*
+ * Header
+ */
+.masthead {
+  margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: rgba(255, 255, 255, .5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+  .masthead-brand {
+    float: left;
+  }
+  .nav-masthead {
+    float: right;
+  }
+}
+
+
+/*
+ * Cover
+ */
+.cover {
+  padding: 0 1.5rem;
+}
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+
+/* 
+ * Specific to Sketch Model 
+ */
+
+.sk-ab {
+	position: relative;
+	overflow: hidden;
+}
+
+.sk-asset {
+	position: absolute;
+	background-repeat: no-repeat;
+}
+
+
+.sk-ab.sk-Desktop-HD {
+	background-color: #034800ff;
+	width: auto;
+	height: 2036px;
+}
+
+.sk-asset.fieldHill {
+	background-image: url("../images/green/fieldHill.svg");
+	left: 0px;
+	top: 346px;
+	width: 1447px;
+	height: 793px;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+	.sk-asset.sk-fieldHill {
+		background-image: url("../images/green/fieldHill.svg");
+		background-size: 1447px 793px;
+	}
+}
+@media only screen and (min--moz-device-pixel-ratio: 3),
+only screen and (-o-min-device-pixel-ratio: 3/1),
+only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min-device-pixel-ratio: 3) {
+	.sk-asset.sk-fieldHill {
+		background-image: url("../images/green/fieldHill.svg");
+		background-size: 1447px 793px;
+	}
+}
+
+.row-full{
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: 100px;
+  margin-top: 100px;
+  left: 50%;
+ }
+
+ .bg-full{
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: 100px;
+  margin-top: 100px;
+  left: 50%;
+  background-image: url(../images/green/full.svg);
+  background-position: top, right;
+  background-size: contain;
+  background-repeat: no-repeat, no-repeat;
+  background-attachment: scroll;
+  padding: 800px;
+  overflow-x: hidden;
+  z-index: -1;
+ }
+
+/* 
+ * https://tobiasahlin.com/moving-letters/#3
+ */
+
+ .ml3 {
+  color: #ffffff;
+  font-family: Raleway, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  margin: 0 0 1em 0;
+  text-transform: uppercase;
+  text-align:left
+}
+
+.hillAndTree {
+  background-image: url(../images/green/full.svg);
+  background-position: top, left;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat, no-repeat;
+  padding: 800px;
+  overflow-x: hidden;
+  z-index: -1;
+}
+
+
+/*
+ * Footer
+ */
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}
