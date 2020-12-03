@@ -8,39 +8,23 @@
     <meta name="generator" content="Jekyll v4.1.1">
     <title>Portfolio</title>
     <!-- Bootstrap -->
-    <link href="/assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    ​<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <!-- Style -->
-    <link href="css/main.css" rel="stylesheet">
     <link href="css/cover.css" rel="stylesheet">
     <!--- JavaScript-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/functions.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
   </head>
 
-  <body class="text-center">
-    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <body class="body">
+    <div class="container-fluid">
   <header class="masthead cover">
     <div class="inner">
-      <h2 class="masthead-brand ml3">Peter T Elliott</h2>
-      <!-- 
-      <a class="masthead-brand ml3">
-        <span class="letter" style="opacity: 1;">P</span>
-        <span class="letter" style="opacity: 1;">e</span>
-        <span class="letter" style="opacity: 1;">t</span>
-        <span class="letter" style="opacity: 1;">e</span>
-        <span class="letter" style="opacity: 1;">r</span>
-        <span class="letter" style="opacity: 1;">&nbsp</span>
-        <span class="letter" style="opacity: 1;">T</span>
-        <span class="letter" style="opacity: 1;">&nbsp</span>
-        <span class="letter" style="opacity: 1;">E</span>
-        <span class="letter" style="opacity: 1;">l</span>
-        <span class="letter" style="opacity: 1;">l</span>
-        <span class="letter" style="opacity: 1;">i</span>
-        <span class="letter" style="opacity: 1;">o</span>
-        <span class="letter" style="opacity: 1;">t</span>
-        <span class="letter" style="opacity: 1;">t</span>
-      </a> -->
+      <br>
+      <h3 class="masthead-brand ml3">Peter T Elliott</h3>
       <nav class="nav nav-masthead justify-content-center">
         <a class="nav-link active" href="#">Home</a>
         <a class="nav-link" href="#">Work</a>
@@ -50,65 +34,53 @@
     </div>
   </header>
   
-
-  <main role="main" class="content">
-    <div class="inner">
+<div class="container">
+  <section class="row top-buffer-4">
+    <div class="col-sm-8" style="text-align:left">
       <div>
-        <br>
-        <br>
-        <br>
-        <br>
+        <h3>Hi, I'm Peter.  I'm an inventor, artist, thinker, and tinkerer.</a></h3>
+        <p>Engineering is my career, design is my passion, and nature is my inspiration.</a></p>
+        <button type="button" class="btn btn-secondary"><a href="#">More about me</a></button>
+      </div>
     </div>
+    <p class="col-sm-4">
+    </p>
+  </section>
+
+  <section class="row top-buffer-4">
+    <div class="col-sm-4" style="text-align:left"><br>
+      <img src="images/icons/icon - trendsSquare.svg" width="50%" alt="squiggle" class="img-circle"/>
     </div>
+    <div class="col-sm-8" style="text-align:right">
+      <div>
+        <h3>No cutting corners, only re-engineering.</h3>
+        <p>Far worse it would be to under-engineer than to over-engineer.</p>
+        <button type="button" class="btn btn-secondary"><a href="#">Look what I made!</a></button>
+      </div>
+    </div>
+  </section>
 
-    <section id="wrapper" style="text-align:center" class="content-center">
-
-      <!-- Left -->
-        <section id="one" class="wrapper spotlight style1">
-          <div class="inner" style="text-align:left">
-            <div class="content">
-              <h3 class="">Hi, I'm Peter.  I'm an inventor, artist, thinker, and tinkerer.</a></h3>
-              <p class="lead">Engineering is my career, design is my passion, and nature is my inspiration.</a></p>
-              <p class="lead">
-                <a href="#" class="button btn-secondary white large"> Learn more </a>
-              </p>
-            </div>
-          </div>
-        </section>
-      </section>
-
-      <!-- Center -->
-      <section id="two" class="wrapper alt spotlight style1">
-        <div class="inner" style="text-align:center">
-          <a href="#" class="image"><img src="images/icons/icon - trendsSquare.svg" alt=""/></a>
-          <div class="content">
-            <h2 class="major">No cutting corners, only re-engineering.</h2>
-            <p>Far worse it would be to under-engineer than to over-engineer.</p>
-            <a href="#" class="button btn-secondary white large"> See me make stuff </a>
-          </div>
-        </div>
-      </section>
-            
-
-      <!-- Right -->
-      <section id="three" class="wrapper spotlight style1">
-        <div class="inner" style="text-align:right">
-          <div class="content">
-            <h2 class="major">Here, I shall talk about myself.</h2>
-            <p>I think outside the box, explore new possibilities, and push the limits of the systems I work with. </p>
-            <p>My hands on engineering background, programming expertise, and love of design allows me to <br>be efficient and innovative when completing projects to ensure the greatest impact.</p>
-            <a href="#" class="button btn-secondary white large"> Read more about me talking about myself </a>
-          </div>
-        </div>
-      </section>
-      
-  </main>
+  <section class="row top-buffer-2">
+    <div class="col-sm-12" style="text-align:center">
+      <div>
+        <h3>Here, I shall talk about myself.</h3>
+        <p>I think outside the box, explore new possibilities, and push the limits of the systems I work with. 
+          <br><br>
+           My hands on engineering background, programming expertise, and love of design allows me to 
+           <br>
+           be efficient and innovative when completing projects to ensure the greatest impact.</p>
+        <button type="button" class="btn btn-secondary"><a href="#">Read more about me talking about myself</a></button>
+      </div>
+    </div>
+  </section>
+</div>
 
   <footer class="mastfoot mt-auto">
     <div class="inner">
       <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
     </div>
   </footer>
+
 </div>
 
 </body>

@@ -9,6 +9,18 @@ a:hover {
   color: #fff;
 }
 
+/* Textiles */
+p,
+p:focus,
+p:hover {
+  color: #fff;
+}
+h3,
+h3:focus,
+h3:hover {
+  color: #fff;
+}
+
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
@@ -23,12 +35,20 @@ a:hover {
 /*
  * Base structure
  */
-
 html,
 body {
   height: 100%;
   margin-left: auto;
   margin-right: auto;
+  background-color: #034800ff;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: top, center;
+  background-image: url(../images/green/full.svg);
+  position: relative;
+  background-repeat: no-repeat, no-repeat;
+  overflow-x: hidden;
+  z-index: -1;
 }
 
 body {
@@ -97,85 +117,15 @@ body {
   font-weight: 700;
 }
 
-
-/* 
- * Specific to Sketch Model 
- */
-
-.sk-ab {
-	position: relative;
-	overflow: hidden;
-}
-
-.sk-asset {
-	position: absolute;
-	background-repeat: no-repeat;
-}
-
-
-.sk-ab.sk-Desktop-HD {
-	background-color: #034800ff;
-	width: auto;
-	height: 2036px;
-}
-
-.sk-asset.fieldHill {
-	background-image: url("../images/green/fieldHill.svg");
-	left: 0px;
-	top: 346px;
-	width: 1447px;
-	height: 793px;
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2) {
-	.sk-asset.sk-fieldHill {
-		background-image: url("../images/green/fieldHill.svg");
-		background-size: 1447px 793px;
-	}
-}
-@media only screen and (min--moz-device-pixel-ratio: 3),
-only screen and (-o-min-device-pixel-ratio: 3/1),
-only screen and (-webkit-min-device-pixel-ratio: 3),
-only screen and (min-device-pixel-ratio: 3) {
-	.sk-asset.sk-fieldHill {
-		background-image: url("../images/green/fieldHill.svg");
-		background-size: 1447px 793px;
-	}
-}
-
-.row-full{
-  width: 100vw;
-  position: relative;
-  margin-left: -50vw;
-  height: 100px;
-  margin-top: 100px;
-  left: 50%;
- }
-
- .bg-full{
-  width: 100vw;
-  position: relative;
-  margin-left: -50vw;
-  height: 100px;
-  margin-top: 100px;
-  left: 50%;
-  background-image: url(../images/green/full.svg);
-  background-position: top, right;
-  background-size: contain;
-  background-repeat: no-repeat, no-repeat;
-  background-attachment: scroll;
-  padding: 800px;
-  overflow-x: hidden;
-  z-index: -1;
- }
+/* Nitty Griddy */
+.top-buffer-1 { margin-top:40px; }
+.top-buffer-2 { margin-top:80px; }
+.top-buffer-3 { margin-top:120px; }
+.top-buffer-4 { margin-top:160px; }
 
 /* 
  * https://tobiasahlin.com/moving-letters/#3
  */
-
  .ml3 {
   color: #ffffff;
   font-family: Raleway, Helvetica, sans-serif;
@@ -202,5 +152,8 @@ only screen and (min-device-pixel-ratio: 3) {
  * Footer
  */
 .mastfoot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
   color: rgba(255, 255, 255, .5);
 }
