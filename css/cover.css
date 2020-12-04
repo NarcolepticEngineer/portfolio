@@ -40,10 +40,11 @@ body {
   height: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #034800ff;
+  background-color: #084E55;
   background-size: cover;
   background-attachment: scroll;
   background-position: top, center;
+  background-image: linear-gradient(#034800ff,#084E55);
   background-image: url(../images/green/allFull.svg);
   position: relative;
   background-repeat: no-repeat, no-repeat;
