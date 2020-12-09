@@ -35,7 +35,18 @@ h3:hover {
 /*
  * Base structure
  */
-html,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: left;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #212121;
+  font-weight: 300;
+}
 body {
   height: 100%;
   margin-left: auto;
@@ -49,7 +60,6 @@ body {
   position: relative;
   background-repeat: no-repeat, no-repeat;
   overflow-x: hidden;
-  z-index: -1;
 }
 
 body {
@@ -110,6 +120,13 @@ body {
   margin-right: auto;
 }
 
+.content {
+  display: grid;
+  width: 1400px;
+  margin: 0 auto;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 15px;
+}
 
 /*
  * Header
