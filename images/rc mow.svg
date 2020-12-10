@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="550px" viewBox="0 0 1366 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tinkering" transform="translate(1.000000, -170.000000)">
+            <g id="Group" transform="translate(-1.000000, 170.000000)">
+                <rect id="Rectangle" fill="#B7B7B7" x="761" y="251" width="124" height="223"></rect>
+                <path d="M373.140562,175.607985 C353.870761,132.759716 229.775299,74.521765 0.854174606,0.894131866 C306.368055,80.3971181 459.124995,138.635069 459.124995,175.607985 C459.124995,231.067359 266.155061,391 366.500234,421.823492 C466.982643,452.689139 604.275957,470.081309 778.380175,474 L839,550 C639.1021,550 458.988852,527.487493 298.660257,482.462479 C58.1673642,414.924958 402.045263,239.880388 373.140562,175.607985 Z" id="Path" fill-opacity="0.129261364" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M978,399 C961.983742,399 949,386.016258 949,370 L949,333 C949,316.983742 961.983742,304 978,304 L1165,304 C1181.01626,304 1194,316.983742 1194,333 L1194,370 C1194,386.016258 1181.01626,399 1165,399 L1157,399 L1157,422 L983,422 L983,399 L978,399 Z" id="Combined-Shape" fill="#000000"></path>
+                <rect id="Rectangle" fill="#000000" x="813" y="318" width="62" height="134"></rect>
+                <rect id="Rectangle" fill="#8C0000" x="855" y="422" width="434" height="104" rx="52"></rect>
+                <circle id="Oval" fill="#393939" cx="839" cy="472" r="78"></circle>
+                <line x1="1313.5" y1="398.5" x2="721.5" y2="276.5" id="Line-4" stroke="#000000" stroke-width="20" stroke-linecap="square"></line>
+                <line x1="1313.5" y1="398.5" x2="1314" y2="472" id="Line-4-Copy" stroke="#000000" stroke-width="20" stroke-linecap="square"></line>
+                <circle id="Oval-Copy" fill="#414141" cx="1314" cy="495" r="52"></circle>
+                <circle id="Oval-Copy-2" fill="#000000" cx="1314" cy="495" r="37"></circle>
+                <circle id="Oval-Copy-3" fill="#000000" cx="839" cy="474" r="37"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
