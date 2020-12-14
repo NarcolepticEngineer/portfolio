@@ -137,11 +137,13 @@ $(document).ready(function () {
     
     
     
-    
-    
- });
-		
-	$('a').smoothScroll();
-	
-	});
+});
+  
+$('a').smoothScroll();
 
+});
+
+//enable tooltips
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+});

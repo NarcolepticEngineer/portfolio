@@ -9,27 +9,21 @@ a:hover {
   color: #fff;
   text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
-a.tooltip {
-	position: relative;
-	text-decoration: none;
-	color: blue;
-}
 
-a.tooltip span {
-	display: none;
+.tooltip-inner {
+  background-color: #000000;
 }
-
-a.tooltip:hover span {
-	position: absolute;
-	top: 40px;
-        font-size: 40px;
-	left: 0px;
-	display: block;
-	width: 250px;
-	color: black;
-	background-color: #FFFF40;
-	border: 1px solid black;
-	padding: 5px;
+.tooltip.bs-tooltip-right before {
+  border-right-color: #000000 !important;
+}
+.tooltip.bs-tooltip-left :before {
+  border-right-color: #000000 !important;
+}
+.tooltip.bs-tooltip-bottom :before {
+  border-right-color: #000000 !important;
+}
+.tooltip.bs-tooltip-top :before {
+  border-right-color: #000000 !important;
 }
 
 /* Textiles */
@@ -58,6 +52,8 @@ h4:focus,
 h4:hover {
   color: #084E55;
 }
+
+
 
 /* Custom buttons */
 .btn-secondary,
