@@ -17,6 +17,13 @@ p:hover {
   color: #fff;
   text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
+
+p1,
+p1:focus,
+p1:hover {
+  color: #116B75;
+}
+
 h3,
 h3:focus,
 h3:hover {
@@ -24,7 +31,13 @@ h3:hover {
   text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 
-/* Custom default button */
+h4,
+h4:focus,
+h4:hover {
+  color: #084E55;
+}
+
+/* Custom buttons */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
@@ -33,7 +46,14 @@ h3:hover {
   background-color: rgba(255, 255, 255, 0.253);
   /* border: .05rem solid #fff; */
 }
-
+.btn-card,
+.btn-card:hover,
+.btn-card:focus {
+  color: rgb(158, 148, 148);
+  text-shadow: none; /* Prevent inheritance from `body` */
+  background-color: #084E55;
+  /* border: .05rem solid #fff; */
+}
 
 /*
  * Base structure
