@@ -70,6 +70,29 @@ h4:hover {
   background-color: #ffe1b4;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after,
+.carousel-control-next-icon:hover {
+  content: '›';
+  font-size: 55px;
+  color: rgb(15, 15, 15);
+}
+
+.carousel-control-prev-icon:after,
+.carousel-control-prev-icon:hover {
+  content: '‹';
+  font-size: 55px;
+  color: rgb(110, 110, 110);
+}
+
+
 
 /*
  * Base structure

@@ -145,5 +145,22 @@ $('a').smoothScroll();
 
 //enable tooltips
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+  $('[data-toggle="tooltip"]').tooltip({
+    container: 'body'
+  })
+});
+
+// popovers Initialization
+$(function () {
+  $('[data-toggle="popover"]').popover({
+    container: 'body'
+  })
+  })
+
+// popovers initialization - on hover
+$('[data-toggle="popover-hover"]').popover({
+  html: true,
+  trigger: 'hover',
+  placement: 'bottom',
+  content: function () { return '<img src="' + $(this).data('img') + '" />'; }
 });
