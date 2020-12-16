@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="702" height="105" viewBox="0 0 702 105">
+  <g id="Group_10994" data-name="Group 10994" transform="translate(-168 -373)">
+    <text id="Palettes" transform="translate(230 387)" fill="#2680c2" font-size="72" font-family="Ubuntu-Medium, Ubuntu" font-weight="500"><tspan x="67.748" y="67">Timeline Pages</tspan></text>
+    <g id="Group_10983" data-name="Group 10983">
+      <path id="primary" d="M2,0H103a2,2,0,0,1,2,2V61a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(168 415)" fill="#f7c948"/>
+      <path id="secondary" d="M0,31.45A10.484,10.484,0,0,1,10.482,20.963h62.9A10.484,10.484,0,0,1,83.863,31.45ZM10.482,10.482A10.483,10.483,0,0,1,20.963,0H62.895A10.484,10.484,0,0,1,73.381,10.482Z" transform="translate(178.483 373)" fill="#de911d"/>
+    </g>
+  </g>
+</svg>

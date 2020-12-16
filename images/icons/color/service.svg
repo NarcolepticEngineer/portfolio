@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="718" height="166" viewBox="0 0 718 166">
+  <g id="Group_10992" data-name="Group 10992" transform="translate(-152 -337)">
+    <text id="Palettes" transform="translate(230 387)" fill="#2680c2" font-size="72" font-family="Ubuntu-Medium, Ubuntu" font-weight="500"><tspan x="90.896" y="67">Service Pages</tspan></text>
+    <g id="Group_10697" data-name="Group 10697" transform="translate(150.799 336.997)">
+      <g id="Group_2" data-name="Group 2" transform="translate(1.195 0)">
+        <g id="Oval_8" data-name="Oval 8" transform="translate(0)">
+          <circle id="Oval_8-2" data-name="Oval 8" cx="83" cy="83" r="83" transform="translate(0.005 0.003)" fill="none"/>
+        </g>
+      </g>
+      <path id="secondary" d="M56.22,43.088h-39.1V0h39.1a2,2,0,0,1,2,2V41.088A2,2,0,0,1,56.22,43.088ZM41.1,25.134V35.906H51.371V25.134Zm-17.123,0V35.906H34.248V25.134ZM41.1,7.181V17.953H51.371V7.181Zm-17.123,0V17.953H34.248V7.181ZM13.7,43.088H0V21.543H13.7V43.087Z" transform="translate(90.265 101.196) rotate(-90)" fill="#de911d"/>
+      <path id="primary" d="M126.938,47.725H6.681c-3.854,0-6.908-1.29-6.668-2.817L6.694,2.486C6.914,1.089,9.834,0,13.362,0H26.724c3.528,0,6.448,1.089,6.668,2.486l2.613,16.6,19.4-7.7c4.209-1.67,11.405-.487,11.405,1.875v6.856l22-8.731c4.209-1.67,11.405-.487,11.405,1.875v6.856l22-8.731c4.209-1.67,11.405-.487,11.405,1.875V45.074C133.619,46.538,130.628,47.725,126.938,47.725Z" transform="translate(17.151 66.675)" fill="#f7c948"/>
+      <path id="secondary-2" data-name="secondary" d="M37.878,18.466V0H49.244V18.466Zm-18.937,0V0H30.3V18.466ZM0,18.466V0H11.362V18.466Z" transform="translate(69.053 92.332)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

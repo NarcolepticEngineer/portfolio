@@ -1,0 +1,4 @@
+<svg id="icon_-_palette" data-name="icon - palette" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="primary" d="M18,20H7a4.894,4.894,0,0,0,.535-.464L15.071,12H18a2,2,0,0,1,2,2v4A2,2,0,0,1,18,20ZM4,20H4a4,4,0,0,1-4-4V2A2,2,0,0,1,2,0H6A2,2,0,0,1,8,2V16A4,4,0,0,1,4,20Zm0-5.5A1.5,1.5,0,1,0,5.5,16,1.5,1.5,0,0,0,4,14.5Z" transform="translate(0 0)" fill="#1b6c74"/>
+  <path id="secondary" d="M0,13.971V2.657L2.071.586A2,2,0,0,1,4.9.586L7.728,3.414a2,2,0,0,1,0,2.828Z" transform="translate(9 2.687)" fill="#164e55"/>
+</svg>

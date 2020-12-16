@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="757" height="151" viewBox="0 0 757 151">
+  <g id="Group_10991" data-name="Group 10991" transform="translate(-113 -350)">
+    <text id="Palettes" transform="translate(230 387)" fill="#2680c2" font-size="72" font-family="Ubuntu-Medium, Ubuntu" font-weight="500"><tspan x="26.996" y="67">Production Pages</tspan></text>
+    <g id="Group_10696" data-name="Group 10696" transform="translate(113.223 350)">
+      <g id="Group_2" data-name="Group 2" transform="translate(-0.222)">
+        <g id="Oval_8" data-name="Oval 8" transform="translate(0)">
+          <circle id="Oval_8-2" data-name="Oval 8" cx="75.5" cy="75.5" r="75.5" transform="translate(0)" fill="none"/>
+        </g>
+      </g>
+      <path id="primary" d="M7.723,70.824C5.957,74,3.092,74,1.325,70.824a13.145,13.145,0,0,1,0-11.5l27.145-48.8c1.767-3.177,4.631-3.177,6.4,0L49.766,37.3,69.188,2.382c1.767-3.177,4.631-3.177,6.4,0a13.145,13.145,0,0,1,0,11.5L52.966,54.556c-1.767,3.177-4.631,3.177-6.4,0L31.67,27.771Z" transform="translate(37.304 37.23)" fill="#de911d" stroke="#de911d" stroke-width="1"/>
+      <path id="primary-2" data-name="primary" d="M6.6,59.136c-1.51,2.652-3.958,2.652-5.468,0a10.75,10.75,0,0,1,0-9.6l23.2-40.75c1.51-2.652,3.958-2.652,5.468,0L42.529,31.145l16.6-29.156c1.51-2.652,3.958-2.652,5.468,0a10.75,10.75,0,0,1,0,9.6L45.263,45.553c-1.51,2.652-3.958,2.652-5.468,0L27.064,23.188Z" transform="translate(42.896 57.575)" fill="#f7c948" stroke="#f7c948" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

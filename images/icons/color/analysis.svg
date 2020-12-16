@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="705" height="111.423" viewBox="0 0 705 111.423">
+  <g id="Group_10993" data-name="Group 10993" transform="translate(-165 -376)">
+    <text id="Palettes" transform="translate(230 387)" fill="#2680c2" font-size="72" font-family="Ubuntu-Medium, Ubuntu" font-weight="500"><tspan x="75.344" y="67">Analysis Pages</tspan></text>
+    <path id="secondary" d="M111.422,32.172V63.122A12.38,12.38,0,0,1,99.042,75.5H12.38A12.38,12.38,0,0,1,0,63.122V32.172H18.57a6.19,6.19,0,0,0,5.151-2.756L43.331,0l31.99,47.986a6.19,6.19,0,0,0,10.3,0L96.165,32.172Z" transform="translate(165 411.92)" fill="#de911d"/>
+    <path id="primary" d="M111.422,55.711H92.852a6.19,6.19,0,0,0-5.15,2.756l-7.23,10.845L48.481,21.327a6.19,6.19,0,0,0-10.3,0L15.258,55.711H0V12.38A12.38,12.38,0,0,1,12.38,0H99.042a12.38,12.38,0,0,1,12.38,12.38Z" transform="translate(165 376)" fill="#f7c948"/>
+  </g>
+</svg>
