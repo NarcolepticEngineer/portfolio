@@ -1,4 +1,4 @@
-## Welcome to the Portfolio for Peter Elliott
+## Welcome to the Portfolio for PT Elliott
 #### I swear I'll figure out how to use this eventually.
 
 Welcome to my portfolio code. This is the first website I have ever done coding for, so please excuse the sloppiness of my blunt-force programming methods. I will do my best to refine the code as learn to do so.
