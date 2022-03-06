@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="PT Elliott is an artist, engineer, and developer in Raleigh, NC.">
+    <meta name="author" content="PT Elliott">
+    <meta name="Copyright" content="Copyright PT Elliott 2021">
+    <title>Portfolio</title>
+    <link rel="icon" href="images/green/myLogoP-20.png">
+    <!-- Bootstrap -->
+    ​<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <!-- Style -->
+    <link href="css/cover.css" rel="stylesheet">
+    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"> 
+    <!--- JavaScript-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJCMTKE3TT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-KJCMTKE3TT');
+    </script>
+  </head>
+
+  <body onload="recipe1()"  class="body-contact">
+    <div class="container">
+      <header class="container-fluid masthead cover" style="padding:0">
+        <div class="inner">
+          <h3 class="masthead-brand align ml3">  PT Elliott</h3>
+          <nav class="nav nav-masthead justify-content-center">
+            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="work.html">Work</a>
+            <a class="nav-link" href="play.html">Play</a>
+            <a class="nav-link" href="resume.html">About</a>
+            <a class="nav-link" href="contact.html">Contact</a>
+          </nav>
+        </div>
+      </header>
+  
+<div class="container">
+  <section class="row top-buffer-2">
+    <div class="col-sm-12 top-buffer-3" style="text-align:center">
+        <h3 style="color: rgb(255, 255, 255);text-shadow:1px 1px 5px rgba(0,0,0,0.5);">
+          But first, chocolate.</h3>
+      </div>
+  </section>
+  <section class="row top-buffer-2">
+    <div class="col-sm-12 top-buffer-3" style="text-align:left">
+          <div id="showdown"></div>
+          <div id="markdown-text"></div>
+      </div>
+  </section>
+  <section class="row top-buffer-2">
+    <div class="col-sm-12 top-buffer-3" style="text-align:center">
+        <h3 style="color: rgb(255, 255, 255);text-shadow:1px 1px 5px rgba(0,0,0,0.5);">
+          I was joking. Always chocolate.</h3>
+      </div>
+  </section>
+  
+</div>
+
+<footer class="row mastfoot mt-auto top-buffer-4">
+  <div class="inner top-buffer-4">
+    <p>Designed and built by <a target="_blank" rel="noopener noreferrer" style="text-decoration:underline;" href="https://github.com/NarcolepticEngineer">PT Elliott</a>  © 2021</p>
+  </div>
+</footer>
+
+</div>
+<style>
+  #markdown-text {
+    padding:30px; 
+    background-color:antiquewhite;
+  }
+</style>
+
+<script>
+  function recipe1 () {
+    var target = document.getElementById('markdown-text');
+    var converter = new showdown.Converter({tables:true,tablesHeaderId:true});
+    var result = fetch("./content/recipes/double%20chocolate%20maple%20cookies.md")
+      .then(x => x.text())
+      .then((text) => {
+        html = converter.makeHtml(text);
+        target.innerHTML = html;
+  })}
+</script>
+ 
+  
+</body>
+</html>

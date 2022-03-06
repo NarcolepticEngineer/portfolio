@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--- Whoa totally meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="description" content="PT Elliott is an artist, engineer, and developer in Raleigh, NC.">
+    <meta name="author" content="PT Elliott">
+    <meta name="website" content="https://narcolepticengineer.github.io/portfolio/">
+    <meta name="Copyright" content="Copyright PT Elliott 2022">
+    <!--- Stylin & Scriptin -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.js"></script>
+</head>
+
+<body scroll="no" style="overflow: hidden">
+    <div>
+        <header class="container-fluid masthead cover">
+            <div class="grid-container">
+                <div class="logo">
+                    <img src="https://narcolepticengineer.github.io/portfolio/images/green/myLogoP-20.png" width="85%" style="min-width: 150px;filter:drop-shadow(5px 5px 10px rgba(0,0,0,0.5))" class="masthead-brand">
+                </div>
+                <div class="title">
+                    <h3 class="masthead-brand align ml3" style="font-size: calc(0.75em + 3vmin);text-shadow: 2px 2px 5px rgba(0,0,0,0.5);"> PT Elliott</h3>
+                </div>
+                <div class="subtitle">
+                    <p class="masthead-brand align subtitle" style="font-size: calc(0.75em + 2vmin);text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">Links & Resources</p>
+                </div>
+                <div class="space" style="font-size: 0.5em"><br></div>
+            </div>
+        </header>
+    </div>
+    <script>
+        $(function() {
+            // Wrap every letter in a span
+            $('.ml3').each(function() {
+                $(this).html($(this).text().replace(/([^ \x80-\xFF]|\w)/g, "<span class='letter'>$&</span>"));
+            });
+            anime.timeline({
+                    loop: false
+                })
+                .add({
+                    targets: '.ml3 .letter',
+                    opacity: [0, 1],
+                    easing: "easeInOutQuad",
+                    duration: 350,
+                    delay: function(el, i) {
+                        return 100 * (i + 1)
+                    }
+                });
+        })
+    </script>
+    <style>
+        /* Base structure */
+        
+        html {
+            margin: 0;
+            padding: 0px;
+            height: 100%;
+            text-align: left;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            font-family: 'Ubuntu';
+            font-size: 36px;
+            color: #ffffff;
+            font-weight: 300;
+        }
+        
+        body {
+            height: 100%;
+            margin-top: 0;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #084f5500;
+            background-size: cover;
+            background-attachment: scroll;
+            background-position: top, center;
+            position: relative;
+            background-repeat: no-repeat, no-repeat;
+            overflow-x: hidden;
+        }
+        
+        body {
+            display: -ms-flexbox;
+        }
+        /* grid style */
+        
+        .logo {
+            grid-area: logo;
+        }
+        
+        .title {
+            grid-area: primary;
+        }
+        
+        .subtitle {
+            grid-area: secondary;
+        }
+        
+        .space {
+            grid-area: other;
+        }
+        
+        .grid-container {
+            display: grid;
+            grid-template: 'logo other other other other other' 'logo primary primary primary primary primary' 'logo secondary secondary secondary secondary secondary';
+            grid-gap: 10px;
+            padding: 10px;
+        }
+        
+        .grid-container>div {
+            text-align: center;
+            padding: 20px 0;
+            font-size: 30px;
+        }
+        /* Header style */
+        
+        .masthead {
+            margin-bottom: 0rem;
+        }
+        
+        .masthead-brand {
+            margin-bottom: 0;
+        }
+        
+        .subtitle {
+            color: #ffffff;
+            font-weight: 00;
+            letter-spacing: 0.1em;
+            margin: 5px 0 1em 0;
+            text-align: left
+        }
+        
+        .nav-masthead .nav-link {
+            padding: .25rem 0;
+            color: rgba(255, 255, 255, .5);
+            background-color: transparent;
+            border-bottom: .25rem solid transparent;
+        }
+        
+        .nav-masthead .nav-link:hover,
+        .nav-masthead .nav-link:focus {
+            border-bottom-color: rgba(255, 255, 255, .25);
+        }
+        
+        .nav-masthead .nav-link+.nav-link {
+            margin-left: 1rem;
+        }
+        
+        .nav-masthead .active {
+            color: #fff;
+            border-bottom-color: #fff;
+        }
+        
+        @media (min-width: 480px) {
+            .masthead-brand {
+                float: left;
+            }
+            .nav-masthead {
+                float: right;
+            }
+        }
+        
+        @media screen and (max-width:480px) {
+            .masthead-logo {
+                display: none;
+            }
+        }
+        
+        @media screen and (min-width:480px) {
+            .masthead-smLogo {
+                display: none;
+            }
+        }
+        /* https://tobiasahlin.com/moving-letters/#3 */
+        
+        .ml3 {
+            color: #ffffff;
+            font-weight: 00;
+            letter-spacing: 0.1em;
+            margin: 5px 0 1em 0;
+            text-align: left
+        }
+    </style>
+</body>
+
+</html>
