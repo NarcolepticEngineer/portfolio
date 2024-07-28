@@ -39,7 +39,7 @@ Qty | Ingredients
 * Move to mixing bowl and thouroughly blend in the sugar and vanilla and salt
 * Put bowl in refrigerator to chill
   
-> [!Note]
+> [!Tip]
 > We need the mixture to be cool enough to add the eggs without cooking them
 
 * Wait until bottom of the bowl is no longer warm to the touch before removing from refrigerator
