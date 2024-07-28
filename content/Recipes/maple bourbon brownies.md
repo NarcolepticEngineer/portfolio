@@ -1,5 +1,5 @@
 🍁 🍁 🍫 🍫 
-# Bourbon Maple Syrup Brownies 
+# Maple Syrup Bourbon Brownies 
 
 #### Estimated times:
 
@@ -21,40 +21,67 @@ Qty | Ingredients
 1 cup | All-purpose Flour
 1 cup | Maple syrup
 1 cup | Cheap* Bourbon
-> *The cheap bourbon sold in the plastic bottles keeps the bourbon flavor better during the baking process.
+ > [!TIP]
+ > *The cheaper bourbon that is less refined keeps the bourbon flavor better through the baking process.
 
 <br>
 
 ## Instructions
-* Adjust oven rack to center position and preheat oven to 350 degrees F. 
-* Line 9- by 13-inch baking pan with parchment paper, folded in the corners.
-* Pour bourbon and maple syrup into small saucepan and note roughly how high the liquid level is with a spoon.
-* Simmer to reduce roughly by at least half the total volume or less (took about 30 min)
-* Realize the oven is still on… turn it off.
+* Pour bourbon and maple syrup into small saucepan and measure how high the liquid level is with a wood skewer or chopstick notched carefully with a knife.
+* Simmer to reduce roughly by at least half the total volume or less (30-45 min depending on how long your attention span is).
+  
+> [!Warning]
+> This mixture boils over really REALLY easily. If it does, it will catch fire because *alchohol*, and be stiky because *syrup*.<br>
+> (*It's a bitch to clean off burnt and sticky crap at the same time*.)
+
 * Remove saucepan from heat.
 * Add unsweetened chocolate and butter, stir until melted all the way through. 
-* Move to mixing bowl and put in refrigerator to chill.
-* Forget about it for a few hours, and maybe it is ready when chocolate starts to congeal and bowl is cool to the touch all over.
-* Re-preheat the oven to 350 degrees F.
-* Add sugar, stirring until well blended. 
-* Beat in eggs (one at a time) until well blended. 
-* Add flour (and I guess here I could have added more chocolate chips), and stir to incorporate. 
-* Stop stirring when no traces of flour remain. 
+* Move to mixing bowl and thouroughly blend in the sugar and vanilla and salt
+* Put bowl in refrigerator to chill
+  
+> [!Note]
+> We need the mixture to be cool enough to add the eggs without cooking them
+
+* Wait until bottom of the bowl is no longer warm to the touch before removing from refrigerator
+* Adjust oven rack to center position and preheat the oven to 350°F.
+* Line 9- by 13-inch baking pan with parchment paper, folded in the corners.
+   * (Or aluminum foil - either non-stick foil or with non-stick spray)
+* Beat in eggs until well blended. 
+* Add flour, and stir to incorporate.
+
+> [!Note]
+> Add mix-ins if desired.<br>
+> I always recommend **MORE CHOCOLATE**.<br>
+> I've had the best luck using about a cup of mini semi-sweet chocolate chips.
+
 * Spread in prepared pan.
-* Bake for 25 minutes and check on it: *Oh shit this looks like it’s not going to work*
-    * Bake for 5 more minutes: *Oh shit it looks worse*
-    * Bake for 5 more minutes: *Oh shit it looks like split pudding*
-    * Bake for 5 more minutes, stick with a toothpick and notice it just looks like chocolate syrup: *Oh shit this may be a lost cause*
-    * **Fuck it**, Bake for 10 more minutes, stick with a toothpick and if you’re lucky it might come out with fudgy sludge… ***Holy shit I think it’s working!***
-    * Bake for 5 more minutes (just in case), stick with a toothpick and it comes out with fudge crumbs: ***MWA-HA-HA-HA-ha! You think it might have worked!***
-    * Remove from oven and cool in pan on wire rack. 
-    * Remove brownies from pan: *Oh shit, its wobbly like pudding… is it cooked?*
-    * TASTE TEST **BEFORE** YOU SERVE TO OTHERS. Just in case. It’s probably fine!
-* Cut into squares.
-* Set at least half aside for yourself (You’ll thank me later).
-* Serve with disclaimer: 
-    
-    “It’s probably not raw, it’s just VERY fudgy. But… if you wouldn’t lick the batter off the spoon, better not eat this.”
+* Bake for 25 minutes and check on it to see if a toothpick comes out clean
+
+> [!Tip]
+> Have a drink of that bourbon while waiting.
+
+> [!Caution]
+> It may not be done as expected depending on lot of factors in and/or outside of your control. <br><br>
+>  This is an example of how it's gone for me: <br>
+    * Check after 25 minutes: **Oh fuck oh shit this is goopy as shiiiit** <br>
+    * Bake for 5 more minutes: **Oh shit it looks worse** <br>
+    * Bake for 5 more minutes: **Oh shit it looks like pudding** <br>
+    * Bake for 5 more minutes, stick with a toothpick and notice it just looks like chocolate syrup: **Oh shit this may be a lost cause** <br>
+    * **Fuck it** 10 more minutes, stick with a toothpick and if you’re lucky it might come out with fudgy sludge… ***Holy shit I think it’s working!*** <br>
+    * Bake for 5 more minutes (just in case), stick with a toothpick and it comes out with fudge crumbs: ***MWA-HA-HA-HA-ha! I am a genius!***
+* Remove from oven and cool in pan on wire rack *until you think it's worth the risk of being burned to get a taste of the sweet sweet chocolate you worked so hard for*. 
+  
+> [!Tip]
+> TASTE TEST **BEFORE** YOU SERVE TO OTHERS. <br>
+> Just in case. <br>
+> It’s probably fine!
+
+* Cut into *tiiiiny* squares.
+* Set at least half aside for yourself.
+
+> [!Important]
+> Serve with disclaimer that it’s probably not raw, it’s just VERY fudgy. <br>
+> If you wouldn’t lick the batter off the spoon, better not eat this.
     
 * Enjoy!
 
